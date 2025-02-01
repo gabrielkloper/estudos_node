@@ -1,0 +1,61 @@
+{
+  "funcionarios": [
+    {
+      "nome": "João Silva",
+      "cargo": "Analista",
+      "setor": "TI",
+      "sexo": "Masculino",
+      "salario": 5000,
+      "dependentes": [
+        {
+          "nome": "Maria Silva",
+          "sexo": "Feminino",
+          "parentesco": "Filha"
+        }
+      ]
+    },
+    {
+      "nome": "Maria Santos",
+      "cargo": "Desenvolvedora",
+      "setor": "TI",
+      "sexo": "Feminino",
+      "salario": 7000,
+      "dependentes": [
+        {
+          "nome": "Pedro Santos",
+          "sexo": "Masculino",
+          "parentesco": "Filho"
+        }
+      ]
+    },
+    {
+      "nome": "Carlos Oliveira",
+      "cargo": "Gerente",
+      "setor": "Financeiro",
+      "sexo": "Masculino",
+      "salario": 8000,
+      "dependentes": [
+        {
+          "nome": "Ana Oliveira",
+          "sexo": "Feminino",
+          "parentesco": "Filha"
+        }
+      ]
+    },
+    {
+      "nome": "Paulo Souza",
+      "cargo": "Analista",
+      "setor": "TI",
+      "sexo": "Masculino",
+      "salario": 6000,
+      "dependentes": [
+        {
+          "nome": "Sandra Souza",
+          "sexo": "Feminino",
+          "parentesco": "Filha"
+        }
+      ]
+    }
+      ]
+}
+
