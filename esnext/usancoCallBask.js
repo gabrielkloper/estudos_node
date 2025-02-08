@@ -15,7 +15,7 @@ const getTurma = (letra, callback) => {
     });
   });
 };
-//comentario teste git
+
 let nomes = [];
 getTurma("A", (alunos) => {
   nomes = nomes.concat(alunos.map((a) => `A: ${a.nome}`));
@@ -27,8 +27,4 @@ getTurma("A", (alunos) => {
     });
   });
 });
-
-function soma(a,b){
-    return a + b;
-}
 
