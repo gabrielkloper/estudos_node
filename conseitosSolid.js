@@ -13,6 +13,7 @@
 function calculateSalary(employee) {
     return employee.hoursWorked * employee.hourlyRate;
 }
+
 function generateReport(employee, salary) {
     let report = /*...*/
     console.log(report);
@@ -95,3 +96,5 @@ class PasswordReminder {
         this.dbConnection = connection
     }
 }
+
+//teste
